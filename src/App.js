@@ -13,7 +13,7 @@ function App() {
                 <div class="flex-shrink-0">
                     <a href="#" title="" class="flex">
                       {/* <p class="w-auto h-8">GEC</p> */}
-                        <img class="w-auto h-12" src="https://tse2.mm.bing.net/th?id=OIP.rEyYlPrDfBFnlAbvLCCGuwHaHa&pid=Api&P=0&h=180" alt="" />
+                        <img class="w-auto h-12" src="https://tse2.mm.bing.net/th/id/OIP.NqY3rNMnx2NXYo3KJfg43gHaHa?pid=Api&P=0&h=180" alt="" />
                     </a>
                 </div>
 
@@ -54,14 +54,14 @@ function App() {
             <div class="grid items-center grid-cols-1 gap-12 lg:grid-cols-2">
                 <div>
                     <h1 class="text-4xl font-bold text-black sm:text-6xl lg:text-7xl">
-                        Collaborate remotely, with
+                          Kshitish Nayak B-Tech(CSE)
                         <div class="relative inline-flex">
                             <span class="absolute inset-x-0 bottom-0 border-b-[30px] border-[#4ADE80]"></span>
-                            <h1 class="relative text-4xl font-bold text-black sm:text-6xl lg:text-7xl">Postcrafts.</h1>
+                            <h1 class="relative text-4xl font-bold text-black sm:text-6xl lg:text-7xl">Career object</h1>
                         </div>
                     </h1>
 
-                    <p class="mt-8 text-base text-black sm:text-xl">Amt minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat.</p>
+                    <p class="mt-8 text-base text-black sm:text-xl">A passionate fullstack web developer skilled in the MERN stack and modern development tools..</p>
 
                     <div class="mt-10 sm:flex sm:items-center sm:space-x-8">
                         <a href="#" title="" class="inline-flex items-center justify-center px-10 py-4 text-base font-semibold text-white transition-all duration-200 bg-orange-500 hover:bg-orange-600 focus:bg-orange-600" role="button"> Start exploring </a>
